@@ -1,0 +1,23 @@
+############# 中文导航 ##############
+
+# 主菜单
+[[main]]
+name = "首页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "作者"
+url = "/author"
+weight = 2
+
+[[main]]
+name = "博客"
+url = "/blog"
+weight = 3
+
+# 页脚菜单
+[[footer]]
+name = "隐私政策"
+url = "/privacy-policy"
+weight = 3
