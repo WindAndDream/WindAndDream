@@ -1,12 +1,12 @@
 ---
-title: "CSS像素（px）与物理像素的关系"
-meta_title: ""
-description: "CSS像素（px）与物理像素的关系 CSS 前端"
+title: "CSS 像素（px）与物理像素的关系"
+meta_title: "前端 CSS 样式表"
+description: "讲解CSS像素（px）与物理像素的关系，基础概念、比例换算等..."
 date: 2025-07-31T21:13:00+08:00
 image: "/images/blog/2025/7/css-px-to-physical-px/cover.jpg"
 categories: ["CSS", "前端"]
 author: "清风为梦"
-tags: ["前端", "CSS"]
+tags: ["CSS", "前端"]
 math: true
 draft: false
 ---
