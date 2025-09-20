@@ -159,3 +159,15 @@ lazy = true
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
 lazy = true
+[[params.plugins.js]]
+link = "js/utils/distance.js"
+lazy = true
+[[params.plugins.js]]
+link = "js/utils/css.js"
+lazy = true
+[[params.plugins.js]]
+link = "js/utils/event.js"
+lazy = true
+[[params.plugins.js]]
+link = "js/pages/blog.js"
+lazy = true

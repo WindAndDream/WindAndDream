@@ -1,10 +1,10 @@
 <header
-  class="header {{ if site.Params.navbar_fixed }}sticky top-0{{ end }} z-30">
+  class="header {{ if site.Params.navbar_fixed }}sticky top-0{{ end }} z-30  border-b border-gray-300">
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
       <!-- navbar brand/logo -->
-      <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}">
+      <a class="navbar-brand block w-16 sm:w-24 md:w-36 lg:w-40" href="{{ site.Home.RelPermalink }}">
         {{ partial "logo" }}
       </a>
     </div>
